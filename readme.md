@@ -94,25 +94,6 @@ Default username: `user`
 
 ---
 
-## Screenshots
-
-### 1. WordPress default welcome page
-The site is live and reachable through the instance's public IP.
-
-![WordPress Welcome Page](screenshots/wordpress-welcome-page.png)
-
-### 2. WordPress admin login page
-The admin dashboard is reachable at `/wp-admin/`.
-
-![WordPress Login Page](screenshots/wordpress-login-page.png)
-
-### 3. Instance snapshot
-A backup snapshot of the instance was created from the Lightsail console.
-
-![Instance Snapshot](screenshots/instance-snapshot.png)
-
----
-
 ## Optional Improvements
 
 These steps are recommended for a production setup. They are **not** covered by the screenshots above.
@@ -158,5 +139,5 @@ Use a caching plugin such as **W3 Total Cache** or **LiteSpeed Cache**.
 
 ## Author
 
-**Vinay**
-GitHub: [Vinay-PR-Gowda](https://github.com/Vinay-PR-Gowda)
+**Vikram**
+GitHub: [Vikram C N] (https://github.com/Vikramcntrivikram)
